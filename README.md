@@ -18,6 +18,6 @@ If you’re using a low-performance system, it’s recommended to either disable
 
 Overall, the checker is stable on modern systems and integrates tools from various cheat-detection programs. As of now, this is the only available solution from the Cybershoke team for verifying users for cheat software.
 
-Build: 04.51.2214 https://mega.nz/file/CBRgCJCZ#8gK1jiGZVIhOx_6RoSYppgbIyovSH_ti1Q8M8TMgrkU
+Build: 04.51.2214 https://mega.nz/file/2cICGbqA#smZNKQo1fHIiwd1wjNqaCPoWv0JkjOQMspL8wgIvGio
 
 https://discord.com/invite/UFr4HebjVE
